@@ -1,0 +1,7 @@
+rfm95.c:23:6:rfm95_init	24	static
+rfm95.c:99:6:rfm95_setPower	24	static
+rfm95.c:127:6:transmitPackage	24	static
+rfm95.c:203:6:rfm95_handleInterrupt	24	static
+rfm95.c:283:6:rfm95_read	24	static
+rfm95.c:303:6:rfm95_write	24	static
+rfm95.c:320:6:rfm95_reset	8	static

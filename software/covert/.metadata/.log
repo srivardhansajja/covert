@@ -1,0 +1,21 @@
+!SESSION 2021-04-09 10:54:01.588 -----------------------------------------------
+eclipse.buildId=Version 1.5.1
+java.version=1.8.0_272
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-04-09 10:54:16.800
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-04-09 10:54:16.852
+!MESSAGE Log4j initialized with config file /home/braedensmith/STM32CubeIDE/workspace_1.5.1/blinky/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-04-09 10:54:18.233
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-04-09 10:54:18.552
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-04-09 10:55:39.940
+!MESSAGE Indexed 'bluepill2' (21 sources, 161 headers) in 3.88 sec: 9,263 declarations; 40,845 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.37%)
